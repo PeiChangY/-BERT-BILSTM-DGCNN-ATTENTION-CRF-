@@ -1,5 +1,5 @@
 # BERT-Chinese-NER-pytorch
-基于BERT+BiLSTM/DGCNN++CRF的中文命名实体识别 (pytorch实现)<br>
+基于BERT+BiLSTM/DGCNN+Attention+CRF的中文命名实体识别 (pytorch实现)<br>
 <hr>
 基本环境：<br>
 python 3.8 <br>
